@@ -1,2 +1,2 @@
 # Uri-1012---Area
-Repositório CSharp iniciante / Uri 1012 - Area
+Repositório C# iniciante / Uri 1012 - Area
